@@ -7,3 +7,13 @@ Handwritten digit recognition is an essential task in optical character recognit
 <img src="https://github.com/user-attachments/assets/7c216825-d603-4556-a683-d7d05c15092b" height="300px" width="300px"/>
 <img src="https://github.com/user-attachments/assets/a6507a85-2e37-436d-a196-a9ee4bda1e20" height="300px" width="300px"/>
 <br/><br/>
+## Python Libraries Used :
++ Matplotlib
++ Seaborn
++ Scikit-learn
+## Results :
+The model demonstrated an accuracy of 96% when evaluated on test data
+The heatmap below visualizes the confusion matrix of our handwritten degit recognition model <br/><br/>
+<img src="https://github.com/user-attachments/assets/a6507a85-2e37-436d-a196-a9ee4bda1e20" height="300px" width="300px"/>
+<br/><br/>
+From the above confusion matrix, we can infer that the model performs accurately on most digits.
