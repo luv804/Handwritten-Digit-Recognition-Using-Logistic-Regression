@@ -15,7 +15,7 @@ Handwritten digit recognition is an essential task in optical character recognit
 The dataset used to train and test the model was sourced from Scikit-learn library's Digits dataset (load_digits)
 ## Results :
 The model demonstrated an accuracy of 96% when evaluated on test data
-The heatmap below visualizes the confusion matrix of our handwritten degit recognition model <br/><br/>
+The heatmap below visualizes the confusion matrix of our handwritten digit recognition model <br/><br/>
 <img src="https://github.com/user-attachments/assets/ea32831f-1869-49d6-b73d-21cd3fbf4aa9" height="500px" width="700px"/>
 <br/><br/>
 From the above confusion matrix, we can infer that the model performs accurately on most digits.
